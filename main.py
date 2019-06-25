@@ -53,8 +53,8 @@ if __name__ == "__main__":
     postalcode = '1051cn'
     distance = '15000'
     sortMethod = 'increasing'
-    botToken = '736623276:AAGRRdU-4JTZiVlFnQM4FXMvyOe1cXHGw0M'
-    chatID = '516991683'
+    botToken = ''
+    chatID = ''
     url = 'https://www.marktplaats.nl/z.html?sortBy=' + sortBy
     url += '&priceFrom=' + priceFrom
     url += '&sortOrder=' + sortMethod
